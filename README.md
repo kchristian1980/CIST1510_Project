@@ -1,0 +1,1 @@
+This is the folder for my CIST1510 final project including the index.html page as well as 4 other pages.  The style sheet is also included plus all of the photos in another folder. The files are contained in a zip file that opens to a folder called root.
